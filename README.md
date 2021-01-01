@@ -16,6 +16,6 @@ def greet():
 
 
 <p align="center"> 
-<a href="https://twitter.com/syed__umar" target="blank"><img align="center" src=https://github.com/bangkitboss/rufus/blob/master/AnyConv.com__png-transparent-computer-icons-analytics-analytic-svg-free-miscellaneous-logo-line.svg alt="syed__umar" height="25" width="25" /></a>
-<a href="https://www.sans.eu.org" target="blank"><img align="center" src=https://github.com/bangkitboss/rufus/blob/master/AnyConv.com__kisspng-ico-icon-ghost-5aa22cc2b3b755.5596637815205777307361.svg alt="https://www.sans.eu.org" height="30" width="30" /></a>    
+<a href="https://www.sans.eu.org" target="blank"><img align="center" src="AnyConv.com__png-transparent-computer-icons-analytics-analytic-svg-free-miscellaneous-logo-line.svg" height="25" width="25" /></a>
+<a href="https://www.sans.eu.org" target="blank"><img align="center" src="AnyConv.com__kisspng-ico-icon-ghost-5aa22cc2b3b755.5596637815205777307361.svg" height="30" width="30" /></a>    
 </p>
