@@ -13,9 +13,3 @@ def greet():
 ```
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bangkitboss&count_private=true&show_icons=true&theme=radical"/> </p>
-
-
-<p align="center"> 
-<a href="https://www.sans.eu.org" target="blank"><img align="center" src="AnyConv.com__png-transparent-computer-icons-analytics-analytic-svg-free-miscellaneous-logo-line.svg" height="25" width="25"/></a>
-<a href="https://www.sans.eu.org" target="blank"><img align="center" src="AnyConv.com__kisspng-ico-icon-ghost-5aa22cc2b3b755.5596637815205777307361.svg" height="25" width="25"/></a>    
-</p>
