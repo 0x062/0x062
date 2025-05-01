@@ -1,6 +1,6 @@
 # Hi there, I'm **bangkitboss**! 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/bangkitboss?style=social)](https://twitter.com/bangkitboss) [![LinkedIn](https://img.shields.io/badge/LinkedIn-bangkitboss-blue)](https://linkedin.com/in/bangkitboss) [![GitHub followers](https://img.shields.io/github/followers/bangkitboss?style=social)](https://github.com/bangkitboss)
+[![Twitter Follow](https://img.shields.io/twitter/follow/bangkitboss?style=social)](https://c.com/gojekanyep) [![LinkedIn](https://img.shields.io/badge/LinkedIn-bangkitboss-blue)](https://id.linkedin.com/in/frederico-bc-556a9515a) [![GitHub followers](https://img.shields.io/github/followers/bangkitboss?style=social)](https://github.com/bangkitboss)
 
 ---
 
@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate on **open-source libraries** and **full-stack projects**.
 - 🤔 I’m exploring **Rust** and **WebAssembly** for high-performance web modules.
 - 💬 Ask me about **JavaScript**, **Node.js**, **blockchain**, and **cloud infrastructure**.
-- 📫 How to reach me: [email@example.com](mailto:email@example.com)
+- 📫 How to reach me: [bangkit@dana.id](bangkitboss@gmail.com)
 - ⚡ Fun fact: I love **gamification**—I once built a quiz app that rewards NFT badges! 🎮
 
 ---
@@ -50,10 +50,8 @@
 
 ## 📫 Reach Me
 
-- Email: [bangkitboss@gmail.com](bangkitboss@gmail.com)
+- Email: [bangkit@dana.id](bangkitboss@gmail.com)
 - Twitter: [@gojekanyep](https://twitter.com/gojekanyep)
-- LinkedIn: [Frederico BC]([https://linkedin.com/in/bangkitboss](https://id.linkedin.com/in/frederico-bc-556a9515a))
-
 ---
 
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
