@@ -27,7 +27,7 @@
   <img align="center" alt="Docker" height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" />
   <img align="center" alt="Kubernetes" height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/kubernetes/kubernetes.png" />
   <img align="center" alt="Rust" height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/rust/rust.png" />
-  <img align="center" alt="Wasmer" height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/webassembly/webassembly.png" />
+
 </div>
 
 ---
@@ -50,9 +50,9 @@
 
 ## 📫 Reach Me
 
-- Email: [email@example.com](mailto:email@example.com)
-- Twitter: [@bangkitboss](https://twitter.com/bangkitboss)
-- LinkedIn: [in/bangkitboss](https://linkedin.com/in/bangkitboss)
+- Email: [bangkitboss@gmail.com](bangkitboss@gmail.com)
+- Twitter: [@gojekanyep](https://twitter.com/gojekanyep)
+- LinkedIn: [Frederico BC]([https://linkedin.com/in/bangkitboss](https://id.linkedin.com/in/frederico-bc-556a9515a))
 
 ---
 
