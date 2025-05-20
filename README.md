@@ -50,7 +50,7 @@
 
 ## 📫 Reach Me
 
-- Email: [bangkit@dana.id](bangkitboss@gmail.com)
+- Email: [bangkit@ehi.com](bangkitboss@gmail.com)
 - Twitter: [@gojekanyep](https://twitter.com/gojekanyep)
 ---
 
