@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate on **open-source libraries** and **full-stack projects**.
 - 🤔 I’m exploring **Rust** and **WebAssembly** for high-performance web modules.
 - 💬 Ask me about **JavaScript**, **Node.js**, **blockchain**, and **cloud infrastructure**.
-- 📫 How to reach me: [bangkit@dana.id](bangkitboss@gmail.com)
+- 📫 How to reach me: [bangkit@dana.id](uuhub@ehi.com)
 - ⚡ Fun fact: I love **gamification**—I once built a quiz app that rewards NFT badges! 🎮
 
 ---
@@ -44,7 +44,7 @@
 
 ## 📈 GitHub Stats
 
-![bangkitboss's GitHub stats](https://github-readme-stats.vercel.app/api?username=bangkitboss&show_icons=true&theme=radical)
+![bangkitboss's GitHub stats](https://github-readme-stats.vercel.app/api?username=0x062&show_icons=true&theme=radical)
 
 ---
 
